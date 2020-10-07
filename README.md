@@ -1,6 +1,6 @@
 # Homework #2 "It's getting hot in here..."
 
-[Globe](https://github.com/tkelley3/hw2/blob/master/climatechange.jpg)
+![Globe](https://github.com/tkelley3/hw2/blob/master/climatechange.jpg)
 
 ## Outcomes
 - Import large data files 
