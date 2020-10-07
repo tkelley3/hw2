@@ -1,4 +1,7 @@
 # Homework #2 "It's getting hot in here..."
+
+[Globe](climatechange.jpg)
+
 ## Outcomes
 - Import large data files 
 - Export processed data to multiple file formats
