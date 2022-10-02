@@ -16,6 +16,3 @@ Importing and processing data is an important skill to master, especially if you
 1.Produce 3 graphs: (i) a `plot` of the global temperature and the cumulative sum of carbon emissions vs the year on the same plot using two y axes, (ii) and a `plot` of the global temperature, with error bars indicating the 95% confidence interval, and the cumulative sum of carbon emissions vs the year on the same plot using two y axes (iii) a `scatterplot` of the temperature vs the cumulative sum of carbon emissions.    
 1. Save this data to a data file called `climate.mat`.
 1. Write this table to a file called `climate.txt`.
-
-## Challenge
-Carry out this analysis in Python AND MATLAB AND Mathematica.
